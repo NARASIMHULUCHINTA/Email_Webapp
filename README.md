@@ -1,3 +1,8 @@
+Deployed the project in the below link :
+
+https://narasimhuluchinta.github.io/Email_Webapp/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
